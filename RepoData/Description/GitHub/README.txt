@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🎱️🏙️💾️ The official source repository for the Team8 Collection City game project, a recreation of City Story by Storm8/TeamLava.
